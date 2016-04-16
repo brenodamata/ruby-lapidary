@@ -2,5 +2,12 @@
 Ruby Code Exercises and Examples
 
 ## To do:
-  - [ ] Caesar Cipher decryption
-  - [ ] 
+  - [x] Caesar Cipher
+  - [x] Caesar Cipher Decryption
+  - [x] Longest Common Substring
+  - [x] Merge Sorted Arrays
+  - [x] Palindrome
+  - [x] Prime
+  - [x] Reverse Array
+  - [x] Routing Number Generator
+  - [x] Sorting Algorithms
