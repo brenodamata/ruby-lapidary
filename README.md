@@ -11,3 +11,5 @@ Ruby Code Exercises and Examples
   - [x] Reverse Array
   - [x] Routing Number Generator
   - [x] Sorting Algorithms
+  - [x] Stock Picker
+  - [ ] Polyalphabetic cipher  
