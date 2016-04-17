@@ -42,10 +42,10 @@ def decode_cipher input
   caesar_cipher input, dshift
 end
 
-puts caesar_cipher("This is a crypted message: Get to the chopper!", 12)
+# puts caesar_cipher("This is a crypted message: Get to the chopper!", 12)
 
 # Decoding without knowing the shift
-puts decode_cipher "Ftue ue m odkbfqp yqeemsq: Sqf fa ftq otabbqd!".downcase
+puts decode_cipher "gvjd nl o dcdihfo rxgtllx: Ufe yh hip hacqajk!".downcase
 
 # puts "Input string:"
 # string_to_encrypt = gets.chomp

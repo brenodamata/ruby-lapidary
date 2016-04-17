@@ -12,4 +12,5 @@ Ruby Code Exercises and Examples
   - [x] Routing Number Generator
   - [x] Sorting Algorithms
   - [x] Stock Picker
-  - [ ] Polyalphabetic cipher  
+  - [x] Polyalphabetic Cipher  
+  - [x] Polyalphabetic Cipher Decryption
